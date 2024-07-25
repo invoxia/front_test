@@ -1,6 +1,7 @@
 Front exercise
 
 You need to use VueJS and another tool like axios
+The front may be done with Tailwind.
 
 Add a hero on your page with an image in background, a placeholder text and a call to action.
 
