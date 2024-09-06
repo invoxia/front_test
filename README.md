@@ -18,3 +18,6 @@ You can use a service like Weather Pro (free token available)
 The page must be working on mobile and desktop. Display must be done in a decent time.
 You may implement a loading state.
 The page may support different languages based on browser settings.
+
+The result may be deployed on Vercel.
+
